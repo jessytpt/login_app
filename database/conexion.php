@@ -6,7 +6,7 @@ $conn = mysqli_connect(
     'login'
 );
 if(isset($conn)){
-    echo 'DB is connect';
+    //echo 'DB is connect';
 }
 
 ?>
