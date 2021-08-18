@@ -1,6 +1,6 @@
 <?php 
 
-include("conexion.php"); 
+include("./database/conexion.php"); 
 include("usuario.php"); 
 
 // Verificar que no tenga una cuenta

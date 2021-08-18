@@ -1,4 +1,4 @@
-<?php include("conexion.php"); 
+<?php include("./database/conexion.php"); 
 
 if (isset($_POST['iniciar_sesion'])) {
     $username = $_POST['username'];

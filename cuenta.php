@@ -1,9 +1,9 @@
-<?php include("conexion.php") ?>
+<?php include("./database/conexion.php") ?>
 
-<?php include("header.php") ?>
+<?php include("./includes/header.php") ?>
 
 <div >
     <h2>Bienvenida!!!</h2>
 </div>
 
-<?php include("footer.php") ?>
+<?php include("./includes/footer.php") ?>

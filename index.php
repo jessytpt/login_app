@@ -1,6 +1,6 @@
-<?php include("conexion.php") ?>
+<?php include("./database/conexion.php") ?>
 
-<?php include("header.php") ?>
+<?php include("./includes/header.php") ?>
 
 <div >
     <form action="logica.php" method="POST">
@@ -16,4 +16,4 @@
         </form>
 </div>
 
-<?php include("footer.php") ?>
+<?php include("./includes/footer.php") ?>
